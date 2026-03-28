@@ -175,6 +175,34 @@ The findings can be useful for:
 
 ---
 
+## ▶️ How to Run the Project
+
+This project is designed to be run using **Jupyter Notebook** or **Google Colab**.
+
+---
+
+#### Steps:
+
+1. Open Google Colab:
+   https://colab.research.google.com/
+
+2. Upload the notebook:
+   - Click **"Upload"**
+   - Select: `LabInData_Code.ipynb`
+
+3. Upload the required data files:
+   - `people_per_city.csv`
+   - `crime_names.txt.csv`
+   - Crime data: https://data.gov.il/he/datasets/israel-police/crime_records_data  
+   - Population data: https://data.gov.il/he/datasets/population_authority/residents_in_israel_by_communities_and_age_groups  
+
+5. Update file paths in the notebook if needed.
+
+6. Run all cells:
+   - Click **Runtime → Run all**
+
+---
+
 ## 🧰 Technologies Used
 - Python  
 - Pandas  
